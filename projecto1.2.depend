@@ -1,0 +1,718 @@
+# depslib dependency file v1.0
+1368876574 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1368898856 c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\header.h
+
+1368899034 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1368895391 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1368895985 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1368898987 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1368898159 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1368722669 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1368894736 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1368725942 source:c:\users\asus\desktop\2ºsemestre\ppp\projecto1.2\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369320783 source:c:\users\asus\desktop\projecto1.2\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369320351 c:\users\asus\desktop\projecto1.2\header.h
+
+1369320432 source:c:\users\asus\desktop\projecto1.2\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369320783 source:c:\users\asus\desktop\projecto1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369319393 source:c:\users\asus\desktop\projecto1.2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1369320783 source:c:\users\asus\desktop\projecto1.2\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369320945 source:c:\users\asus\desktop\projecto1.2\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369320783 source:c:\users\asus\desktop\projecto1.2\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369315125 source:c:\users\asus\desktop\projecto1.2\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369320363 source:c:\users\asus\desktop\projecto1.2\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369320783 source:c:\users\inês\desktop\projecto1.2\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369335176 c:\users\inês\desktop\projecto1.2\header.h
+
+1369320432 source:c:\users\inês\desktop\projecto1.2\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369315125 source:c:\users\inês\desktop\projecto1.2\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369335633 source:c:\users\inês\desktop\projecto1.2\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369335356 source:c:\users\inês\desktop\projecto1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369335831 source:c:\users\inês\desktop\projecto1.2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1369335176 source:c:\users\inês\desktop\projecto1.2\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369321359 source:c:\users\inês\desktop\projecto1.2\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369336403 source:c:\users\inês\desktop\projecto1.2\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370024624 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369924914 c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\header.h
+
+1370012026 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370012770 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370094659 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369950402 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370194461 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369321359 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370118127 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369346198 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369948518 source:c:\users\inês\desktop\projecto1.2.3 (actualizado - joao)\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370024624 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369924914 c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\header.h
+
+1370012026 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370012770 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370094659 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1369950402 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370011822 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369321359 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370118127 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369952983 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1369948518 source:c:\users\asus\desktop\projecto1.2.3 (actualizado - joao)\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370716102 source:c:\users\inês\desktop\projecto1.2.4\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370811265 c:\users\inês\desktop\projecto1.2.4\header.h
+
+1370811421 source:c:\users\inês\desktop\projecto1.2.4\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370716017 source:c:\users\inês\desktop\projecto1.2.4\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370810538 source:c:\users\inês\desktop\projecto1.2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370811626 source:c:\users\inês\desktop\projecto1.2.4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370194461 source:c:\users\inês\desktop\projecto1.2.4\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370811124 source:c:\users\inês\desktop\projecto1.2.4\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370811421 source:c:\users\inês\desktop\projecto1.2.4\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370803731 source:c:\users\inês\desktop\projecto1.2.4\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369948518 source:c:\users\inês\desktop\projecto1.2.4\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370696916 source:c:\users\inês\desktop\projecto1.2.4\horas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1370647314 source:c:\users\asus\desktop\cenas\projecto1.2.4\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370702485 c:\users\asus\desktop\cenas\projecto1.2.4\header.h
+
+1370700294 source:c:\users\asus\desktop\cenas\projecto1.2.4\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370094659 source:c:\users\asus\desktop\cenas\projecto1.2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370707356 source:c:\users\asus\desktop\cenas\projecto1.2.4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370194461 source:c:\users\asus\desktop\cenas\projecto1.2.4\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370708103 source:c:\users\asus\desktop\cenas\projecto1.2.4\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370702485 source:c:\users\asus\desktop\cenas\projecto1.2.4\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370118127 source:c:\users\asus\desktop\cenas\projecto1.2.4\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369948518 source:c:\users\asus\desktop\cenas\projecto1.2.4\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370706875 source:c:\users\asus\desktop\cenas\projecto1.2.4\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370696916 source:c:\users\asus\desktop\cenas\projecto1.2.4\horas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1370707637 source:c:\users\asus\desktop\cenas\projecto1.2.4\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370716102 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370810538 c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\header.h
+
+1370647314 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370716017 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370716228 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370696916 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\horas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1370810538 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370802363 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370194461 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370702485 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370803731 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369948518 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370810538 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370715545 source:c:\users\asus\desktop\cenas\nova pasta (2)\nova pasta (2)\projecto1.2.4\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1370715545 source:c:\users\inês\desktop\projecto1.2.4\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1370716228 source:c:\users\inês\desktop\projecto1.2.4\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370817177 source:c:\users\asus\desktop\cenas\projecto1.2.5\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370814970 c:\users\asus\desktop\cenas\projecto1.2.5\header.h
+
+1370907495 source:c:\users\asus\desktop\cenas\projecto1.2.5\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370715545 source:c:\users\asus\desktop\cenas\projecto1.2.5\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1370817343 source:c:\users\asus\desktop\cenas\projecto1.2.5\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370983560 source:c:\users\asus\desktop\cenas\projecto1.2.5\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370696916 source:c:\users\asus\desktop\cenas\projecto1.2.5\horas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1370907338 source:c:\users\asus\desktop\cenas\projecto1.2.5\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370907138 source:c:\users\asus\desktop\cenas\projecto1.2.5\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370803731 source:c:\users\asus\desktop\cenas\projecto1.2.5\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369948518 source:c:\users\asus\desktop\cenas\projecto1.2.5\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370906387 source:c:\users\asus\desktop\cenas\projecto1.2.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370976510 source:c:\users\asus\desktop\cenas\projecto1.2.5\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370975883 source:c:\users\asus\desktop\cenas\projecto1.2.5\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370817177 source:c:\users\inês\desktop\projecto1.2.5\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370989142 c:\users\inês\desktop\projecto1.2.5\header.h
+
+1370988829 source:c:\users\inês\desktop\projecto1.2.5\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370715545 source:c:\users\inês\desktop\projecto1.2.5\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1370817343 source:c:\users\inês\desktop\projecto1.2.5\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370989142 source:c:\users\inês\desktop\projecto1.2.5\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370696916 source:c:\users\inês\desktop\projecto1.2.5\horas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1370988829 source:c:\users\inês\desktop\projecto1.2.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370907338 source:c:\users\inês\desktop\projecto1.2.5\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370988599 source:c:\users\inês\desktop\projecto1.2.5\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370803731 source:c:\users\inês\desktop\projecto1.2.5\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369948518 source:c:\users\inês\desktop\projecto1.2.5\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370988599 source:c:\users\inês\desktop\projecto1.2.5\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370988937 source:c:\users\inês\desktop\projecto1.2.5\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370906410 source:c:\users\asus\desktop\cenas\projecto1.2.5\apagar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370906410 source:c:\users\inês\desktop\projecto1.2.5\apagar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370906410 source:c:\users\inês\desktop\projecto ppp - inês e joão\apagar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370989142 c:\users\inês\desktop\projecto ppp - inês e joão\header.h
+
+1370817177 source:c:\users\inês\desktop\projecto ppp - inês e joão\carregar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370988829 source:c:\users\inês\desktop\projecto ppp - inês e joão\criar_sala.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370715545 source:c:\users\inês\desktop\projecto ppp - inês e joão\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1370817343 source:c:\users\inês\desktop\projecto ppp - inês e joão\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370989142 source:c:\users\inês\desktop\projecto ppp - inês e joão\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370696916 source:c:\users\inês\desktop\projecto ppp - inês e joão\horas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1370988829 source:c:\users\inês\desktop\projecto ppp - inês e joão\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+
+1370988937 source:c:\users\inês\desktop\projecto ppp - inês e joão\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1370907338 source:c:\users\inês\desktop\projecto ppp - inês e joão\moldura.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370988599 source:c:\users\inês\desktop\projecto ppp - inês e joão\registo_utilizador.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370803731 source:c:\users\inês\desktop\projecto ppp - inês e joão\tempo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1369948518 source:c:\users\inês\desktop\projecto ppp - inês e joão\verificar.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1370989722 source:c:\users\inês\desktop\projecto ppp - inês e joão\pag_reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
